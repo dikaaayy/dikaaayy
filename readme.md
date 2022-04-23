@@ -7,7 +7,7 @@ Hello World🌍! I'm Dika
 Been learning in tech industries for 2 years and looking forward to a new and unique opportunitty
 
 * 📌  I'm based in Jakarta and Yogyakarta
-* 🖥️  See my portfolio at [Netflix Clone](http://andikay.me)
+* 🖥️  See my Latest portfolio [Here](http://andikay.me)
 * ✉️  You can reach me through [dikaaayy@gmail.com](mailto:dikaaayy@gmail.com) or My socials
 * 🧠  I've been continiously and improving NextJS and TailwindCSS
 * 🤝  I'm open to collaborating on React and/or NextJS projects
