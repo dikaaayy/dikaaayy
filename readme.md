@@ -1,9 +1,6 @@
 Hello World🌍! I'm Dika
 ==================================
 
-#### Web Developer and Learner
--------------------------
-
 Been learning in tech industries for 2 years and looking forward to a new and unique opportunitty
 
 * 📌  I'm based in Jakarta and Yogyakarta
