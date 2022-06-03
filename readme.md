@@ -1,7 +1,7 @@
 Hello World🌍! I'm Dika
 ==================================
 
-Been learning in tech industries for 2 years and looking forward to a new and unique opportunitty
+I've been learning in tech industries for 2 years and looking forward to a new and unique opportunitty
 
 * 📌  Currently Living in Jakarta / Yogyakarta
 * 👣  See my Latest portfolio [Here](https://chat.andikay.me)
