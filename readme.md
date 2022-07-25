@@ -4,7 +4,7 @@ Hello World🌍! I'm Dika
 I've been learning in tech industries for 2 years and looking forward to a new and unique opportunitty
 
 * 📌  Currently Living in Jakarta / Yogyakarta
-* 👣  See my Latest portfolio [Here](https://chat.andikay.me)
+* 👣  See my Latest portfolio [here](https://andikay.me)
 * ✉️  You can reach me through [dikaaayy@gmail.com](mailto:dikaaayy@gmail.com) or My socials below
 * 🔧  I've been continiously learning and improving my NextJS and TailwindCSS skills
 * 🤝  Open to collaborating on React and/or NextJS projects
