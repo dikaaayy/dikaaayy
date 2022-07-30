@@ -1,4 +1,4 @@
-Hello World🌍! I'm Dika
+<h1 align="center">Hello 🌍! I'm Dika</h1>
 ==================================
 
 I've been learning in tech industries for 2 years and looking forward to a new and unique opportunitty
@@ -8,6 +8,7 @@ I've been learning in tech industries for 2 years and looking forward to a new a
 * ✉️  You can reach me through [dikaaayy@gmail.com](mailto:dikaaayy@gmail.com) or My socials below
 * 🔧  I've been continiously learning and improving my NextJS and TailwindCSS skills
 * 🤝  Open to collaborating on React and/or NextJS projects
+
 
 ## Skills
 
@@ -36,6 +37,8 @@ I've been learning in tech industries for 2 years and looking forward to a new a
 ## Badges
 
 <b>My GitHub Stats</b>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dikaaayy&show_icons=true&theme=dark" alt="dikaaayy" />
 
 <a href="http://www.github.com/dikaaayy"><img src="https://activity-graph.herokuapp.com/graph?username=dikaaayy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
