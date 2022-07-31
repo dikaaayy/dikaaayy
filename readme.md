@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🌍! I'm Dika</h1>
-==================================
+
 
 I've been learning in tech industries for 2 years and looking forward to a new and unique opportunitty
 
